@@ -1,0 +1,20 @@
+.modalBackdrop {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.bodyImage {
+    height: 32vw;
+    background: round;
+    border-radius: 10px;
+}
+
+.modalContent {
+    background-color: transparent !important;
+    border: 0 !important;
+}
+
+.modalFooter {
+    background-color: #fff !important;
+    border-radius: 8px;
+    justify-content: center !important;
+}

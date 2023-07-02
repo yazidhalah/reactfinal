@@ -1,0 +1,55 @@
+.modalDialog {
+    max-width: 73vw !important;
+    width: 73vw !important;
+}
+
+.modalBackdrop {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+
+
+.bodyImage img {
+    height: 30vw;
+
+    background-color: #fff !important;
+}
+
+.h32vw {
+    height: 32vw;
+    overflow-y: auto;
+}
+
+
+.bodyImage small {
+    color: #ffb9b9;
+}
+
+.bodyImage p {
+    font-size: 25px;
+    font-family: monospace;
+    line-height: 1.75em;
+}
+
+.bodyImage h3 {
+    background-color: #ffe4e46b;
+    font-style: italic;
+    font-family: fangsong;
+}
+
+
+.modalContent {
+    border: 0 !important;
+    width: 40vw;
+}
+
+.modalFooter {
+    background-color: #fff !important;
+    border-radius: 8px;
+    justify-content: center !important;
+}
+
+.h32vw span {
+    color: #f77f7f;
+    font-size: 1.25vw;
+}
